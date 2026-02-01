@@ -2,7 +2,7 @@
 From-scratch numerical codes developed for my Bachelor's Thesis in Physics.
 
 ## About the project
-This repository contains the numerical codes developed for my Bachelor's Thesis, which was my first large-scale computational physics project. For this work, I learned **C++ from scratch** and implemented all simulations without using external numerical solvers, focusing on understanding both the physics and the numerical methods involved. 
+This repository contains the numerical codes developed for my Bachelor's Thesis, which was my first large-scale computational physics project. For this work, I learned **C from scratch** and implemented all simulations at a low level, focusing on understanding both the physics and the numerical methods involved. Linear algebra routines (e.g. eigenvalue problems) are handled using the GNU Scientific Library (GSL).
 
 The project studies **soliton dynamics in the Frenkel-Kontorova model**, a paradigmatic discrete nonlinear system with applications in condensed matter physics, friction, and Josephson junction arrays.
 
